@@ -22,7 +22,7 @@
       "ssh_password": "vagrant",
       "ssh_username": "vagrant",
       "ssh_wait_timeout": "20m",
-      "type": "virtualbox",
+      "type": "virtualbox-iso",
       "vboxmanage": [
         [
           "modifyvm",
